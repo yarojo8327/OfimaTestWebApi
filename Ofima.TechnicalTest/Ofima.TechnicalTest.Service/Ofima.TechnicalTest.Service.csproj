@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ofima.TechnicalTest.Common\Ofima.TechnicalTest.Common.csproj" />
+    <ProjectReference Include="..\Ofima.TechnicalTest.Infraestructure\Ofima.TechnicalTest.Infraestructure.csproj" />
+  </ItemGroup>
+
+</Project>
